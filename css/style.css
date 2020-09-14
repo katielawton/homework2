@@ -51,7 +51,7 @@ div{
 }
 
 #green{
-    background-color: #00FF00;
+    background-color: #008000;
     text-align: left;
 }
 
@@ -65,7 +65,7 @@ div{
     text-shadow: 5px 5px 2px #c7e2c7;
 }
 
-footer{
+footer p{
     text-align: right;
     padding-right: 10px;
     padding-bottom: 10px;
